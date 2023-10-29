@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component LeftHeaderComponent Should render with correct value 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "opacity": 1,
+      }
+    }
+  >
+    <Image
+      source={
+        {
+          "uri": "",
+        }
+      }
+      style={
+        {
+          "borderRadius": 30,
+          "height": 60,
+          "marginHorizontal": 8,
+          "width": 60,
+        }
+      }
+    />
+    <View>
+      <Text
+        style={
+          {
+            "color": "#ffffff",
+            "fontSize": 30,
+            "fontWeight": "500",
+          }
+        }
+      />
+      <Text
+        style={
+          {
+            "color": "#ffffff",
+            "fontSize": 20,
+            "opacity": 0.5,
+          }
+        }
+      >
+        Last seen today 11:00 AM
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Header Component RightHeaderComponent Should render with correct value 1`] = `
+<View
+  style={
+    {
+      "flexDirection": "row",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "marginHorizontal": 8,
+        "opacity": 1,
+      }
+    }
+  >
+    <Icons
+      color="#ffffff"
+      name="call"
+      size={36}
+    />
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "marginHorizontal": 8,
+        "opacity": 1,
+      }
+    }
+  >
+    <Icons
+      color="#ffffff"
+      name="videocam"
+      size={36}
+    />
+  </View>
+</View>
+`;

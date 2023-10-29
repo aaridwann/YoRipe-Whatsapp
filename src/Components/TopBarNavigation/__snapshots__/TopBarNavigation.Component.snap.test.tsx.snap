@@ -1,0 +1,745 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TopBarNavigation With Left and Right Header 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#075e55",
+      "color": "#ffffff",
+      "flexDirection": "row",
+      "height": 120.00000000000001,
+      "justifyContent": "space-between",
+      "paddingHorizontal": 8,
+      "width": "100%",
+      "zIndex": 2,
+    }
+  }
+>
+  <View
+    accessibilityLabel="Navbar_Regular"
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+      <View
+        accessibilityLabel="Left_Header"
+      />
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View
+        accessibilityLabel="Right_Header"
+      />
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "marginHorizontal": 8,
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+      <View
+        collapsable={false}
+        style={
+          {
+            "left": -300,
+            "position": "absolute",
+            "right": 0,
+            "top": 60.00000000000001,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`TopBarNavigation With Only Left Header 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#075e55",
+      "color": "#ffffff",
+      "flexDirection": "row",
+      "height": 120.00000000000001,
+      "justifyContent": "space-between",
+      "paddingHorizontal": 8,
+      "width": "100%",
+      "zIndex": 2,
+    }
+  }
+>
+  <View
+    accessibilityLabel="Navbar_Regular"
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+      <View
+        accessibilityLabel="Left_Header"
+      />
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "marginHorizontal": 8,
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+      <View
+        collapsable={false}
+        style={
+          {
+            "left": -300,
+            "position": "absolute",
+            "right": 0,
+            "top": 60.00000000000001,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`TopBarNavigation With Only Right Header 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#075e55",
+      "color": "#ffffff",
+      "flexDirection": "row",
+      "height": 120.00000000000001,
+      "justifyContent": "space-between",
+      "paddingHorizontal": 8,
+      "width": "100%",
+      "zIndex": 2,
+    }
+  }
+>
+  <View
+    accessibilityLabel="Navbar_Regular"
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View
+        accessibilityLabel="Right_Header"
+      />
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "marginHorizontal": 8,
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+      <View
+        collapsable={false}
+        style={
+          {
+            "left": -300,
+            "position": "absolute",
+            "right": 0,
+            "top": 60.00000000000001,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`TopBarNavigation With Search true 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#075e55",
+      "color": "#ffffff",
+      "flexDirection": "row",
+      "height": 120.00000000000001,
+      "justifyContent": "space-between",
+      "paddingHorizontal": 8,
+      "width": "100%",
+      "zIndex": 2,
+    }
+  }
+>
+  <View
+    accessibilityLabel="Navbar_Searching"
+    collapsable={false}
+    style={
+      {
+        "backgroundColor": "#054c44",
+        "borderRadius": 20,
+        "flexDirection": "row",
+        "opacity": 0,
+        "padding": 5,
+        "transform": [
+          {
+            "translateY": -800,
+          },
+        ],
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        accessibilityLabel="Navbar_Searching_Back_Button"
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "marginHorizontal": 16,
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+      <View
+        style={
+          {
+            "borderRadius": 8,
+            "minWidth": 520,
+            "padding": 12,
+          }
+        }
+      >
+        <TextInput
+          accessibilityLabel="Navbar_Searching_Input"
+          onChangeText={[Function]}
+          placeholder="Find a message"
+          placeholderTextColor="white"
+          style={
+            {
+              "color": "#ffffff",
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "marginHorizontal": 16,
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "marginHorizontal": 16,
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`TopBarNavigation Without left and right header 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#075e55",
+      "color": "#ffffff",
+      "flexDirection": "row",
+      "height": 120.00000000000001,
+      "justifyContent": "space-between",
+      "paddingHorizontal": 8,
+      "width": "100%",
+      "zIndex": 2,
+    }
+  }
+>
+  <View
+    accessibilityLabel="Navbar_Regular"
+    style={
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "marginHorizontal": 8,
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+      <View
+        collapsable={false}
+        style={
+          {
+            "left": -300,
+            "position": "absolute",
+            "right": 0,
+            "top": 60.00000000000001,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;

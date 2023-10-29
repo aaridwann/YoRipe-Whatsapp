@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1698599806977" clover="3.2.0">
+  <project timestamp="1698599806977" name="All files">
+    <metrics statements="152" coveredstatements="149" conditionals="26" coveredconditionals="20" methods="69" coveredmethods="59" elements="247" coveredelements="228" complexity="0" loc="152" ncloc="152" packages="11" files="17" classes="17"/>
+    <package name="Components.CardComponent">
+      <metrics statements="20" coveredstatements="20" conditionals="6" coveredconditionals="4" methods="9" coveredmethods="9"/>
+      <file name="Card.Component.styles.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Components/CardComponent/Card.Component.styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="Card.Component.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Components/CardComponent/Card.Component.tsx">
+        <metrics statements="19" coveredstatements="19" conditionals="6" coveredconditionals="4" methods="9" coveredmethods="9"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="11" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="5" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="5" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="78" count="5" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="85" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="Components.OptionsMenu">
+      <metrics statements="8" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="3"/>
+      <file name="OptionsMenu.Component.Styles.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Components/OptionsMenu/OptionsMenu.Component.Styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="2" type="stmt"/>
+      </file>
+      <file name="OptionsMenu.Component.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Components/OptionsMenu/OptionsMenu.Component.tsx">
+        <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="3"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Components.TopBarNavigation">
+      <metrics statements="37" coveredstatements="35" conditionals="8" coveredconditionals="7" methods="22" coveredmethods="17"/>
+      <file name="TopBarNavigation.Component.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Components/TopBarNavigation/TopBarNavigation.Component.tsx">
+        <metrics statements="20" coveredstatements="18" conditionals="8" coveredconditionals="7" methods="10" coveredmethods="8"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="4" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="62" count="4" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="71" count="4" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="86" count="6" type="stmt"/>
+        <line num="88" count="5" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+      </file>
+      <file name="TopBarNavigation.Hooks.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Components/TopBarNavigation/TopBarNavigation.Hooks.tsx">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="9"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="14" type="stmt"/>
+        <line num="11" count="13" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="13" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="13" type="stmt"/>
+        <line num="26" count="13" type="stmt"/>
+        <line num="27" count="13" type="stmt"/>
+        <line num="28" count="13" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="31" count="13" type="stmt"/>
+        <line num="32" count="12" type="stmt"/>
+        <line num="35" count="13" type="stmt"/>
+      </file>
+      <file name="TopBarNavigation.Styles.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Components/TopBarNavigation/TopBarNavigation.Styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Components.TopBarNavigation.SearchingBar">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="SearchingBar.Component.Styles.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Components/TopBarNavigation/SearchingBar/SearchingBar.Component.Styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="3" type="stmt"/>
+      </file>
+      <file name="SearchingBar.Component.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Components/TopBarNavigation/SearchingBar/SearchingBar.Component.tsx">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="62" count="3" type="stmt"/>
+        <line num="63" count="6" type="stmt"/>
+        <line num="75" count="3" type="stmt"/>
+        <line num="76" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="Constants">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Constants.ts" path="/Users/22060947/Documents/Private/App/yoRipe/src/Constants/Constants.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="6" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="31" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="Containers.ChatList">
+      <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4"/>
+      <file name="ChatList.Utils.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Containers/ChatList/ChatList.Utils.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="4"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="302" type="stmt"/>
+        <line num="16" count="302" type="stmt"/>
+        <line num="18" count="302" type="stmt"/>
+        <line num="21" count="301" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="47" count="300" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Containers.ChatRoom.Header">
+      <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="6"/>
+      <file name="Header.Component.Styles.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Containers/ChatRoom/Header/Header.Component.Styles.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="Header.Component.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Containers/ChatRoom/Header/Header.Component.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="6"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="94" count="1" type="stmt"/>
+        <line num="98" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Redux.Slice.Notes">
+      <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="5"/>
+      <file name="Notes.slice.ts" path="/Users/22060947/Documents/Private/App/yoRipe/src/Redux/Slice/Notes/Notes.slice.ts">
+        <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="1" methods="5" coveredmethods="5"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Service">
+      <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="Question.Service.tsx" path="/Users/22060947/Documents/Private/App/yoRipe/src/Service/Question.Service.tsx">
+        <metrics statements="20" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="12" count="9" type="stmt"/>
+        <line num="14" count="9" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="46" count="3" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="48" count="3" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Utils">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="platform.utils.ts" path="/Users/22060947/Documents/Private/App/yoRipe/src/Utils/platform.utils.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="Utils.Size">
+      <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="6" methods="5" coveredmethods="5"/>
+      <file name="size.utils.ts" path="/Users/22060947/Documents/Private/App/yoRipe/src/Utils/Size/size.utils.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="6" methods="5" coveredmethods="5"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="21" count="7" type="stmt"/>
+        <line num="22" count="7" type="stmt"/>
+        <line num="26" count="71" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="7" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

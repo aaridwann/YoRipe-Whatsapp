@@ -4,8 +4,8 @@
 
 
 ## About The Feature
-This application was created for the code selection challenge, this project created use expo
-please run npx expo install first.
+This application was created for the code selection challenge, 
+this project created use expo so ***please run npx expo install first***.
 
 
 ### Various features

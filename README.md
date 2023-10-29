@@ -1,6 +1,6 @@
 # YoRipe Whatsapp Clone
 
-![gif]([https://raw.githubusercontent.com/aaridwann/Atask_Ridwan_F/main/assets/Jepretan%20Layar%202023-10-20%20pukul%2001.36.55%20(1).webp](https://github.com/aaridwann/YoRipe-Whatsapp/blob/a332c75433b9504861e12f93f9ebfab4559f599a/assets/480.gif))
+![gif](https://github.com/aaridwann/YoRipe-Whatsapp/blob/a332c75433b9504861e12f93f9ebfab4559f599a/assets/480.gif)
 
 
 ## About The Feature
@@ -25,6 +25,9 @@ please run npx expo install first.
 ### Achievement
 - #### Implement TypeScript
 - #### Code Coverage test >90%
+
+## Coverage
+![gif](https://github.com/aaridwann/YoRipe-Whatsapp/blob/a332c75433b9504861e12f93f9ebfab4559f599a/assets/coverage.png)
 
 
 ### Needs improvement

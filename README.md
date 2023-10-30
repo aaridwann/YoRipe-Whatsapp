@@ -33,3 +33,4 @@ this project created use expo so ***please run npx expo install first***.
 ### Needs improvement
 - #### Fix type
 There are several types that have not been handled due to priorities and time constraints
+- #### Need more refactor

@@ -2,6 +2,8 @@
 
 ![gif](https://github.com/aaridwann/YoRipe-Whatsapp/blob/a332c75433b9504861e12f93f9ebfab4559f599a/assets/480.gif)
 
+## Status Page
+![gif](https://github.com/aaridwann/YoRipe-Whatsapp/blob/23406ce63e8c1b3117088e9e8ce1788ba6710392/assets/status_video.gif)
 
 ## About The Feature
 This application was created for the code selection challenge, 

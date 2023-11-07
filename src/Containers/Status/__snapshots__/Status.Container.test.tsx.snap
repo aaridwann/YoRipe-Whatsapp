@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StatusContainer SnapTest Should render correct value 1`] = `
+<RCTScrollView>
+  <View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginHorizontal": 20,
+          "marginVertical": 16,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          accessibilityLabel="imageLabel"
+          accessibilityState={
+            {
+              "busy": undefined,
+              "checked": undefined,
+              "disabled": undefined,
+              "expanded": undefined,
+              "selected": undefined,
+            }
+          }
+          accessibilityValue={
+            {
+              "max": undefined,
+              "min": undefined,
+              "now": undefined,
+              "text": undefined,
+            }
+          }
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            {
+              "opacity": 1,
+            }
+          }
+        >
+          <Image
+            source={
+              {
+                "uri": "https://i.pinimg.com/564x/44/a9/0d/44a90dfa9f4e8efe32b0070d49f9de30.jpg",
+              }
+            }
+            style={
+              {
+                "borderColor": "#c9c9c9",
+                "borderRadius": 50,
+                "borderWidth": 2,
+                "height": 100,
+                "width": 100,
+              }
+            }
+          />
+        </View>
+        <View
+          style={
+            {
+              "marginHorizontal": 20,
+            }
+          }
+        >
+          <Text
+            style={
+              {
+                "fontWeight": "700",
+              }
+            }
+          >
+            Ridwan
+          </Text>
+          <Text
+            style={
+              {
+                "color": "#a0a0a0",
+                "fontSize": 20,
+                "fontWeight": "700",
+                "marginTop": 8,
+              }
+            }
+          >
+            Today Today 01.11
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": undefined,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "opacity": 1,
+          }
+        }
+      >
+        IonIcons
+      </View>
+    </View>
+    <Text
+      style={
+        {
+          "backgroundColor": "#e9e9e9",
+          "color": "#075e55",
+          "fontWeight": "600",
+          "padding": 20,
+        }
+      }
+    >
+      Recent Update
+    </Text>
+    <RCTScrollView
+      ItemSeparatorComponent={[Function]}
+      getItem={[Function]}
+      getItemCount={[Function]}
+      keyExtractor={[Function]}
+      onContentSizeChange={[Function]}
+      onLayout={[Function]}
+      onMomentumScrollBegin={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      stickyHeaderIndices={[]}
+      viewabilityConfigCallbackPairs={[]}
+    >
+      <View />
+    </RCTScrollView>
+    <Text
+      style={
+        {
+          "backgroundColor": "#e9e9e9",
+          "color": "#075e55",
+          "fontWeight": "600",
+          "padding": 20,
+        }
+      }
+    >
+      Viewed updates
+    </Text>
+    <RCTScrollView
+      ItemSeparatorComponent={[Function]}
+      getItem={[Function]}
+      getItemCount={[Function]}
+      keyExtractor={[Function]}
+      onContentSizeChange={[Function]}
+      onLayout={[Function]}
+      onMomentumScrollBegin={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      stickyHeaderIndices={[]}
+      viewabilityConfigCallbackPairs={[]}
+    >
+      <View />
+    </RCTScrollView>
+    <Modal
+      accessibilityLabel="Modal"
+      animationType="slide"
+      hardwareAccelerated={true}
+      onDismiss={[Function]}
+      onRequestClose={[Function]}
+      transparent={true}
+      visible={false}
+    />
+  </View>
+</RCTScrollView>
+`;

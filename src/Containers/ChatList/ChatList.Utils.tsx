@@ -28,7 +28,7 @@ export const userGenerator = (): ListData => ({
 });
 
 export const replyMessageConfig = (): ChatDataType => {
-    const img = Math.random() < 0.5 ? '' : faker.image.avatarLegacy();
+    // const img = Math.random() < 0.5 ? '' : faker.image.avatarLegacy();
 
     return {
         check: false,
@@ -40,12 +40,12 @@ export const replyMessageConfig = (): ChatDataType => {
     };
 };
 
-export const mapUserGenerator = (): ListData[] => {
+export const mapUserGenerator = (number: number): ListData[] => {
     const res = [];
 
-    for (let i = 0; i < 150; i++) {
+    for (let i = 0; i < number; i++) {
         res.push(userGenerator());
     }
-
+    // res.sort((a,b) => a.notification - b.notification);
     return res;
 };

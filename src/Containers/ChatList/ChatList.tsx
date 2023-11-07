@@ -71,7 +71,7 @@ const ChatListContainer = (props: Props) => {
         navigation.push(RoutesName.LIST_CHAT, value);
 
     const generateuser = React.useCallback(
-        () => [...MockData, ...mapUserGenerator()],
+        () => [...MockData, ...mapUserGenerator(150)],
         []
     );
 

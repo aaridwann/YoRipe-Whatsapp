@@ -23,7 +23,7 @@ describe('UserGenerator', () => {
 
 describe('MapUserGenerator', () => {
     it('Should generate 150 user with correct kay', () => {
-        const results = mapUserGenerator();
+        const results = mapUserGenerator(2);
 
         const expectResult = {
             date: expect.any(String),
@@ -38,7 +38,7 @@ describe('MapUserGenerator', () => {
     });
 
     it('Should correct count generate', () => {
-        const results = mapUserGenerator();
+        const results = mapUserGenerator(150);
 
         const expectResult = {
             date: expect.any(String),
